@@ -39,6 +39,11 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/></a>
    <a href="https://www.php.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" alt="php" width="40" height="50"/></a>
-   <a href="https://www.jquery.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="50"/></a>
+
+
+ <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="express" width="40" height="50"/></a>
+
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="50"/></a>
 </p>
