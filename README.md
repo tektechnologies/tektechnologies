@@ -63,7 +63,7 @@
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)
-<a href="https://github.com/DeltaV-Instructor" target="_blank" style="float:right; font-size: 50;">Instructor Demo Repositories Languages</a>
+<a href="https://github.com/DeltaV-Instructor" target="_blank" style="float:right; margin-left: 50px">Instructor Demo Repositories Languages</a>
 
 
 
