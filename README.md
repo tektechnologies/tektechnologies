@@ -60,12 +60,12 @@
     <br>
    <a  align="center" href="https://github.com/DeltaV-Instructor" target="_blank">Instructor Demo Repositories Languages 170+ repos</a>
 
-
+</p>
  <br>
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)
-</p>
+
 
 
 
