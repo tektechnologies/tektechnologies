@@ -64,5 +64,5 @@
  <br>
   
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)<a  align="center" href="https://github.com/DeltaV-Instructor" target="_blank">Instructor Demo Repositories Languages 170+ repos</a>![tektechnologies GitHub stats](https://github-readme-stats.vercel.app/api?username=tektechnologies&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)![tektechnologies GitHub stats](https://github-readme-stats.vercel.app/api?username=tektechnologies&show_icons=true&theme=transparent)
 
