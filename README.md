@@ -59,5 +59,5 @@
    </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies&username=DeltaV-Instructor)](https://github.com/tektechnologies&DeltaV-Instructor/github-readme-stats)
 
