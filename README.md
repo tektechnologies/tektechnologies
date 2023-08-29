@@ -66,6 +66,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)
 
-
+<img src="https://camo.githubusercontent.com/30f3aca49cf8e86e293aa9c2268b963b4f296cc94337e5c1e4f39e2e284ce2a3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a61636b732d30312673686f775f69636f6e733d74727565267468656d653d6179752d6d6972616765" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Jacks-01&amp;show_icons=true&amp;theme=ayu-mirage" style="max-width: 100%;">
 
 
