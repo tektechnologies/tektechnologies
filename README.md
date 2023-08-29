@@ -58,11 +58,11 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/>
    </a> 
     <br>
-   <a  align="center" href="https://github.com/DeltaV-Instructor" target="_blank">Instructor Demo Repositories Languages 170+ repos</a>
+ 
 
 </p>
  <br>
-
+  <a  align="center" href="https://github.com/DeltaV-Instructor" target="_blank">Instructor Demo Repositories Languages 170+ repos</a>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tektechnologies)](https://github.com/tektechnologies/github-readme-stats)![tektechnologies GitHub stats](https://github-readme-stats.vercel.app/api?username=tektechnologies&show_icons=true&theme=transparent)
 
