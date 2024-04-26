@@ -3,7 +3,7 @@
    <a href="https://www.linkedin.com/in/craig-barkley-25017b65/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="craigbarkley" height="20" width="30" /></a> 
 </p>
-<h4 align="center">Software Developer MidWest Side.</h4>
+<h4 align="center">Full Stack Software Developer</h4>
 <h4 align="center">Languages and Tools:</h4>
 <p align="center">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
