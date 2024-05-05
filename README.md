@@ -9,8 +9,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,jquery,react,nodejs,express,cs,java,html,css,bootstrap,git,github,heroku" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,bash,php,wordpress,apple,figma,vscode,ai,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,js,jquery,react,nodejs,express,cs,java,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,heroku,bash,php,wordpress,apple,figma,vscode,ai,ps" /><br>
 </div>
 
 <br/>
