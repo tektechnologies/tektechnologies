@@ -5,6 +5,17 @@
 </p>
 <h4 align="center">Full Stack Software Developer</h4>
 <h4 align="center">Languages and Tools:</h4>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react, express,mongodb,c#,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
 <p align="center">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="50"/>
