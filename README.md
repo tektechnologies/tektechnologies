@@ -9,16 +9,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,jquery,react,bootstrap,html,css,vscode,github,figma,tailwind,git,github,heroku,ai,ps" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react, express,mongodb,cs,java,mysql,azure,bash,php,wordpress,apple" /><br>
+    <img src="https://skillicons.dev/icons?i=js,jquery,react,nodejs,express,cs,java,html,css,bootstrap,git,github,heroku" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,bash,php,wordpress,apple,figma,vscode,ai,ps" /><br>
 </div>
 
 <br/>
 <hr/>
 
 <p align="center">
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="50"/>
+  
    </a>
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="50"/>
