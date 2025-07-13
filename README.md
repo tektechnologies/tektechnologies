@@ -11,6 +11,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,js,jquery,react,nodejs,express,cs,java,html,css,bootstrap" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,heroku,bash,php,wordpress,apple,figma,vscode,ai,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,cocoapods,objc" />
 
 
 <br/>
