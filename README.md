@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,js,jquery,react,vue,nodejs,express,cs,java,html,css,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,heroku,bash,php,wordpress,figma,vscode,ai,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,heroku,bash,php,wordpress,figma,vscode,ai,ps,gitlab" /><br>
    <div align="center"> <img src="https://skillicons.dev/icons?i=swift,apple" />
 </div>
 
