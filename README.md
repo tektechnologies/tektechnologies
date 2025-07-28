@@ -17,7 +17,7 @@
 <br/>
 <hr/>
 
-   
+   <img src="/cbarkley-commits.png" alt="git commits image" />
    <a   href="https://github.com/DeltaV-Instructor" target="_blank">Instructor Demo Repositories (200+ repos)</a>   
 
  <br>
